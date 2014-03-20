@@ -1,0 +1,14 @@
+TESTS Git / Github
+======
+
+19 et 20 mars 2014
+
+Samantha Saidi
+======
+
+Différentes configurations possibles pour la création et MAJ de repositories Git avec Github :
+
+- solution Git : installer Git directerment et utiliser le terminal. Mes commandes ne fonctionnent pas
+- solution Egit dans Eclipse : configuration terminée, je dois continuer les tests pour l'import de repository et pour comiter maintenant que j'ai créé ce repository morand. A suivre.
+- solution Github for Mac : très rapide et facile d'utilisation. Configuration terminée. Mot de passe clef ssh demandé pour l'install = problème de sécurité? : email envoyé à E. Quemener pour vérifier.
+
