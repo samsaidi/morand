@@ -11,3 +11,5 @@ Tests pour une version full-xml du Roman des Morand. Pour l'instant le site est 
 Les tests seront réalisés grâce à la webapp synopsX développée par les ingé de l'AHN de l'ENS de Lyon, Emmanuel Chateau (Labex Les Passés dans le Présent) et Philippe Pons (Centre Alexandre Koyré - UMR 8560).
 
 Master repository : https://github.com/ahn-ens-lyon/synopsx.git
+
+Les spécifications de cette webapp sont encore en cours de rédaction ici, sur le wiki de SynopsX : https://github.com/ahn-ens-lyon/synopsx/wiki/UseCases
